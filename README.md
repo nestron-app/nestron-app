@@ -1,4 +1,4 @@
-<p align="center"><img src="https://avatars.githubusercontent.com/u/350048404?v=4" width="112" height="112" alt="Nestron nest mark"></p>
+<p align="center"><img src="https://avatars.githubusercontent.com/u/350048404?v=4" width="112" height="112" alt="Nestron bracket mark"></p>
 
 <h1 align="center">Nestron</h1>
 <p align="center"><strong>A home for your data platform.</strong></p>
